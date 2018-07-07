@@ -1,0 +1,1 @@
+Solution of audio classifiction task into 8 classes from Speech Technology Center Machine Learning summer school 2018 (STC ML School 2018) https://mlschool.speechpro.ru
