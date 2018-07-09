@@ -1,6 +1,6 @@
 # STC ML School 2018
 
-Test task of audio classification into 8 classes for Speech Technology Center Machine Learning summer school 2018 ([STC ML School 2018](https://mlschool.speechpro.ru))
+Test task of audio classification into 8 classes for Speech Technology Center Machine Learning summer school 2018 ([STC ML School 2018](https://mlschool.speechpro.ru)).
 
 ## Solutions
 
@@ -12,7 +12,7 @@ Test task of audio classification into 8 classes for Speech Technology Center Ma
 
 The following libraries are used:
 
-* [librosa](https://librosa.github.io/librosa/) - feature extraction from raw .wav files
+* [librosa](https://librosa.github.io/librosa/) - feature extraction from raw `.wav` files
 * [catboost](https://github.com/catboost/catboost) - gradient boosting model
 * [pytorch](https://pytorch.org) - neural network framework
 
