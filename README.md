@@ -16,6 +16,6 @@ The following libraries are used:
 * [catboost](https://github.com/catboost/catboost) - gradient boosting model
 * [pytorch](https://pytorch.org) - neural network framework
 
-## Acknowledgments
+## References
 
 [Blog of Aaqib Saeed](http://aqibsaeed.github.io/2016-09-03-urban-sound-classification-part-1/)
