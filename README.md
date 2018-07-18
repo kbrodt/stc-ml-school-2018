@@ -8,6 +8,9 @@ Test task of audio classification into 8 classes for Speech Technology Center Ma
 
 2. In [`stc_ml_school_2018_nn.ipynb`](./stc_ml_school_2018_nn.ipynb) the neural network is used on *melspectrogram* images.
 
+3. In [`stc_ml_school_2018_nn_aug.ipynb`](./stc_ml_school_2018_nn_aug.ipynb) enhanced version of [`stc_ml_school_2018_nn.ipynb`](./stc_ml_school_2018_nn.ipynb)
+with augmented data taken from [kaggle comptetition](https://www.kaggle.com/pavansanagapati/urban-sound-classification/home) ([train](https://drive.google.com/drive/folders/0By0bAi7hOBAFUHVXd1JCN3MwTEU))
+
 ### Prerequisites
 
 The following libraries are used:
